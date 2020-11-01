@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62918" started-at="2020-10-31T17:36:37 IST" finished-at="2020-10-31T17:37:40 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62918" started-at="2020-10-31T17:36:37 IST" finished-at="2020-10-31T17:37:40 IST">
+      <class name="pack1.GoogleTest">
+        <test-method status="PASS" signature="set()[pri:0, instance:pack1.GoogleTest@30b8a058]" name="set" duration-ms="62510" started-at="2020-10-31T17:36:38 IST" finished-at="2020-10-31T17:37:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+      </class> <!-- pack1.GoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
